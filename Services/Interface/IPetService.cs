@@ -1,6 +1,7 @@
 ﻿using animal.adoption.api.DTO.RequestModels;
 using animal.adoption.api.DTO.ResponseModels.Inner;
 using animal.adoption.api.DTO.ResponseModels.Main;
+using animal.adoption.api.Models;
 
 namespace animal.adoption.api.Services.Interface
 {

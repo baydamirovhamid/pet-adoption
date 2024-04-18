@@ -17,6 +17,7 @@ CREATE TABLE "pet" (
   "Id" integer PRIMARY KEY,
   "name" varchar,
   "color" varchar,
+  "type" tinyint,
   "age" varchar,
   "shelter" varchar,
   "size" integer,

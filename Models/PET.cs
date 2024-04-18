@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using animal.adoption.api.Enums;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace animal.adoption.api.Models
@@ -13,6 +14,9 @@ namespace animal.adoption.api.Models
 
      [Column("color")]
      public string? Color { get; set; }
+
+    [Column("type")]
+    public PetType? Type { get; set; }
 
     [Column("age")]
     public int? Age { get; set; }
