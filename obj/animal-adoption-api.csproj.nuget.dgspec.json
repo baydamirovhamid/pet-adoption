@@ -104,6 +104,10 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "React.Core": {
+              "target": "Package",
+              "version": "[5.2.12, )"
+            },
             "Serilog.Extensions.Hosting": {
               "target": "Package",
               "version": "[8.0.0, )"

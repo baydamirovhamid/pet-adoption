@@ -115,3 +115,11 @@ C:\Users\99470\Desktop\Startup-Adopt Me\animal-adoption-api\animal-adoption-api\
 C:\Users\99470\Desktop\Startup-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\99470\Desktop\Startup-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\99470\Desktop\Startup-Adopt Me\animal-adoption-api\animal-adoption-api\obj\Debug\net7.0\animal-adoption-api.sourcelink.json
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\AdvancedStringBuilder.dll
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\JavaScriptEngineSwitcher.Core.dll
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\JSPool.dll
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\React.Core.dll
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\ru-RU\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\front\nuget.config
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\front\package-lock.json
+C:\Users\99470\Desktop\STARTUP-Adopt Me\animal-adoption-api\animal-adoption-api\bin\Debug\net7.0\front\package.json

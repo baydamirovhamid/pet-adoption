@@ -1,6 +1,7 @@
 ﻿using animal.adoption.api.DTO.RequestModels;
 using animal.adoption.api.DTO.ResponseModels.Inner;
 using animal.adoption.api.DTO.ResponseModels.Main;
+using animal.adoption.api.Enums;
 using animal.adoption.api.Models;
 
 namespace animal.adoption.api.Services.Interface
@@ -12,5 +13,6 @@ namespace animal.adoption.api.Services.Interface
         Task<ResponseSimple> DeleteAsync(ResponseSimple response, int id);
         Task<PetVM> GetByIdAsync(int id);
         Task<ResponseListTotal<PetVM>> GetAll(ResponseListTotal<PetVM> response, int page, int pageSize);
+        
     }
 }

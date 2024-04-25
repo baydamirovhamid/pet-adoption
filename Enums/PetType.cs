@@ -2,9 +2,11 @@
 {
     public enum PetType
     {
-        none = 0,
+        all = 0,
         dog = 1,
         cat = 2,
         other = 3,
     }
+
+    
 }

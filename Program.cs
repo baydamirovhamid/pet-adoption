@@ -36,6 +36,7 @@ builder.Services.AddTransient<IAuthService, AuthService>();
 builder.Services.AddTransient<IPostService, PostService>();
 builder.Services.AddTransient<IPetService, PetService>();
 
+   
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
 

@@ -28,7 +28,7 @@ namespace animal.adoption.api.Models
     public int? Size { get; set; }
 
     [Column("hair_length")]
-    public string? HairLength { get; set; }
+    public HairLength? Hair { get; set; }
 
     [Column("created_at")]
     public DateTime? CreatedAt { get; set; }

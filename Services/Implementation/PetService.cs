@@ -8,6 +8,8 @@ using animal.adoption.api.DTO.ResponseModels.Inner;
 using animal.adoption.api.Models;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using System.Drawing;
+using animal.adoption.api.Enums;
 
 namespace animal.adoption.api.Services.Implementation
 {
@@ -113,3 +115,4 @@ namespace animal.adoption.api.Services.Implementation
         }
     }
 }
+
