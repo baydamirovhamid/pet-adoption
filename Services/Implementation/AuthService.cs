@@ -166,37 +166,7 @@ namespace animal.adoption.api.Services.Implementation
         }
 
 
-        public async Task<ResponseSimple> ChangePasswordAsync(ResponseSimple response, ChangePasswordDto model)
-        {
-            try
-            {
-                var user = await _userManager.FindByIdAsync(model.UserId.ToString());
-                if (user == null)
-                {
-                    response.Status.Message = "Belə bir user tapılmadı!";
-                    return response;
-                }
-
-                var result = await _userManager.ChangePasswordAsync(user, model.CurrentPassword, model.NewPassword);
-                if (!result.Succeeded)
-                {
-                    response.Status.ErrorCode = ErrorCodes.AUTH;
-                    response.Status.Message = "Şifrə yenilənmədi!";
-                    return response;
-                }
-
-                response.Status.Message = "Şifrə yeniləndi!";
-            }
-            catch (Exception e)
-            {
-                _logger.LogError("TraceId: " + response.TraceID + $", {nameof(ChangePasswordAsync)}: " + $"{e}");
-                response.Status.ErrorCode = ErrorCodes.SYSTEM;
-                response.Status.Message = "Problem baş verdi!";
-            }
-            return response;
-        }
-
-
+        
         
         private async Task<string> GeneratePasswordResetTokenAsync(USER user)
         {
