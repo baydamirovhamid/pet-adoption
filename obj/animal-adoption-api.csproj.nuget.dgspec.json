@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj": {}
+    "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\animal-adoption-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj": {
+    "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\animal-adoption-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
+        "projectUniqueName": "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\animal-adoption-api.csproj",
         "projectName": "animal-adoption-api",
-        "projectPath": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
+        "projectPath": "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\animal-adoption-api.csproj",
         "packagesPath": "C:\\Users\\99470\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\obj\\",
+        "outputPath": "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99470\\AppData\\Roaming\\NuGet\\NuGet.Config",

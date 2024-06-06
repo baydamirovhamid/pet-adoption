@@ -4363,11 +4363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
+      "projectUniqueName": "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\animal-adoption-api.csproj",
       "projectName": "animal-adoption-api",
-      "projectPath": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
+      "projectPath": "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\animal-adoption-api.csproj",
       "packagesPath": "C:\\Users\\99470\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\obj\\",
+      "outputPath": "C:\\Users\\99470\\Documents\\GitHub\\pet-adoption\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99470\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4503,5 +4503,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
