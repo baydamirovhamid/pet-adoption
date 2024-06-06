@@ -5,7 +5,7 @@
   "phone" varchar,
   "email" varchar,
   "user_id" integer,
-  "birthdate" timestamp,
+  "birthdate" varchar,
   "created_at" timestamp,
   "created_by" varchar,
   "updated_at" timestamp,
